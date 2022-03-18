@@ -14,5 +14,3 @@ int mul(int a, int b)
 
 	return (c);
 }
-© 2022 GitHub, Inc.
-
