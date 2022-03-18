@@ -1,1 +1,2 @@
-My debugging readme
+# still low level programming
+**functions and nested loops
