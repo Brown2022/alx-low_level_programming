@@ -12,5 +12,8 @@ void print_numbers(void)
 	{
 		_putchar(i + '0');
 	}
+
 	_putchar('\n');
 }
+© 2022 GitHub, Inc.
+
