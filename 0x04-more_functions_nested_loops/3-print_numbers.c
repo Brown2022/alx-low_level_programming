@@ -3,7 +3,7 @@
 /**
  * The print_numbers checks the code
  *
- * Returns: Alays 0.
+ * Returns: Always 0.
  */
 
 int print_numbers(void)
