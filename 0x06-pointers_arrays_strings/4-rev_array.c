@@ -21,5 +21,5 @@ void reverse_array(int *a, int n)
 		}
 	}
 }
-© 2022 GitHub, Inc.
+
 
