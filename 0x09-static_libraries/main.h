@@ -1,4 +1,4 @@
-#ifndef FILE_MAIN
+#ifndoef FILE_MAIN
 #define FILE_MAIN
 
 /*a list that was given from the task 0 */
