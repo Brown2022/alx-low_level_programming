@@ -1,1 +1,1 @@
- static library libmy.a containing all the functions
+Static library libmy.a
