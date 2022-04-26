@@ -1,13 +1,13 @@
 More singly linked lists
 ------------------------
-Project done during Full Stack Software Engineering studies at ALX AFRICA SE. It aims to learn about singly linked lists in C language.
-
+Project done during Full Stack Software Engineering studies at ALX AFRICA SE. It aims to learn about singly linked lists in C language.                        -------------      
+                            ----------
 Technologies
 ------------
 . C files are compiled using gcc
-
+-
 . Tested on Ubuntu 20,4 LTS
-
+-           ---------------
 Files
 -----
 All of the following files are programs written in C:
