@@ -2,7 +2,8 @@ Singly linked lists
 -------------------
 Project done during Full Stack Software Engineering studies at ALX AFRICA SE. It aims to learn aboutlinked lists in C language.
 
-Technologies                                                                                            ------------       
+Technologies                                                                                            
+------------
 .C files are compiled using `gcc          
 
 .Tested on Ubuntu 20.04 LTS 
