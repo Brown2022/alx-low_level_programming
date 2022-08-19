@@ -1,19 +1,26 @@
-C - Makefiles ------------- In this project, I practiced writing Makefiles.
+C - Makefiles
+-------------
+In this project, I practiced writing Makefiles.
 
-Tests -----
+Tests
+-----
 - tests:Folder of test files.
 
-Helper Files ------------
+Helper Files
+------------
 - school.c: C function that displays a seahorse in text. Used for Makefile
   practice purposes throughout project.
 
 - main.c: Main C function that runs the function defined in school.c.
 
-Header File -----------
+Header File
+-----------
 - m.h: Header file defining the function prototype used in school.c.
 
-Tasks ----- 
+Tasks
+-----
 0. make -f 0-Makefile
+---------------------
 
 [0-Makefile](https://github.com/Brown2022/alx-low_level_programming/blob/master/0x1C-makefiles/0-Makefile):
 Create first Makefile.  Requirements:
@@ -25,7 +32,7 @@ Create first Makefile.  Requirements:
 
 1. make -f 1-Makefile
 ---------------------
-[1-Makefile]((https://github.com/Brown2022/alx-low_level_programming/blob/master/0x1C-makefiles/1-Makefile):
+[1-Makefile](https://github.com/Brown2022/alx-low_level_programming/blob/master/0x1C-makefiles/1-Makefile):
 Makefile that creates an executable school based on school.c and main.c.
 
 Requirements:
@@ -38,7 +45,7 @@ Requirements:
 
 2. make -f 2-Makefile
 ---------------------
-[2-Makefile]((https://github.com/Brown2022/alx-low_level_programming/blob/master/0x1C-makefiles/2-Makefile): Makefile that creates an executable school based on school.c and main.c. Builds on 1-Makefile .
+[2-Makefile](https://github.com/Brown2022/alx-low_level_programming/blob/master/0x1C-makefiles/2-Makefile): Makefile that creates an executable school based on school.c and main.c. Builds on 1-Makefile .
 
 equirements:
 - name of the executable: school
@@ -52,8 +59,9 @@ equirements:
 - The all rule should recompile only the updated source files
 - You are not allowed to have a list of all the .o files
 
-3. make -f 3-Makefile ---------------------
-[3-Makefile]((https://github.com/Brown2022/alx-low_level_programming/blob/master/0x1C-makefiles/3-Makefile):
+3. make -f 3-Makefile
+---------------------
+[3-Makefile](https://github.com/Brown2022/alx-low_level_programming/blob/master/0x1C-makefiles/3-Makefile):
 Makefile that creates an executable school based on school.c and main.c. Builds
 on 2-Makefile.
 
@@ -77,8 +85,9 @@ Requirements:
 - The clean, oclean, fclean, re rules should never fail
 - You are not allowed to have a list of all the .o files
 
-4. A complete Makefile ----------------------
-[4-Makefile]((https://github.com/Brown2022/alx-low_level_programming/blob/master/0x1C-makefiles/4-Makefile):
+4. A complete Makefile
+----------------------
+[4-Makefile](https://github.com/Brown2022/alx-low_level_programming/blob/master/0x1C-makefiles/4-Makefile):
 Makefile that creates an executable school based on school.c and main.c. Builds
 on 3client_loop: send disconnect: Connection reset by peerete Makefile
 - variables: CC, SRC, OBJ, NAME, RM, CFLAGS
@@ -94,6 +103,7 @@ on 3client_loop: send disconnect: Connection reset by peerete Makefile
 
 5. Island Perimeter
 -------------------
+[5-Makefile](https://github.com/Brown2022/alx-low_level_programming/blob/master/0x1C-makefiles/5-Makefile)
 Technical interview preparation:
 - You are not allowed to google anything
 - Whiteboard first
@@ -117,7 +127,7 @@ island described in grid:
 
 6. make -f 100-Makefile
 -----------------------
-[100-Makefile]((https://github.com/Brown2022/alx-low_level_programming/blob/master/0x1C-makefiles/100-Makefile): 100-Makefile: Makefile that creates an executable school based on school.c and main.c. Builds on 4-Makefile.
+[100-Makefile](https://github.com/Brown2022/alx-low_level_programming/blob/master/0x1C-makefiles/100-Makefile): 100-Makefile: Makefile that creates an executable school based on school.c and main.c. Builds on 4-Makefile.
 
 Requirements:
 - name of the executable: school
